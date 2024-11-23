@@ -1,0 +1,70 @@
+1. Coding Problem Solving Questions:
+   A. String-related Questions:
+      1. Rotate matrix by 90 degree without using transpose.
+      2. Rotate an array to 90 degree.
+
+   B. Array-related Questions:
+      1. (none listed)
+
+   C. Tree-related Questions:
+      1. (none listed)
+
+   D. Dynamic Programming Questions:
+      1. (none listed)
+
+2. Database-Related Questions:
+   1. SQL window function.
+   2. Aggregate functions.
+   3. Triggers.
+   4. Complete schema of database.
+   5. Dense rank, rank.
+   6. What is the difference between primary key and unique?
+   7. What are the types of joins?
+   8. What is rank and dense rank in SQL? What is the difference?
+   9. What are the aggregate functions in SQL?
+   10. What are the constraints used in SQL queries?
+   11. SQL basic insertion, deletion, viewing.
+
+3. System Design Questions:
+   1. What is the difference between DBMS and DBMS?
+   2. What is the difference between tier1 and tier 3 in architecture in DBMS?
+   3. Explain the working of the 7 OSI layers with protocols used in each layer.
+   4. What is the difference between TCP and UDP? Give examples where these protocols are used.
+
+4. Project-Related Questions:
+   1. Explain the projects you've done.
+   2. Project explanation (multiple occurrences).
+   3. Asked to explain projects.
+   4. Asked where I used Python, certain concepts of DBMS in projects (role was based on Python and SQL).
+
+5. Language-Specific Questions:
+   1. Memory management in C++.
+   2. What are friend functions?
+   3. What is a dangling pointer?
+   4. Memory allocation in C++.
+   5. OOP concepts: virtual functions, abstract classes.
+   6. Paging and segmentation.
+   7. Lists, tuples, dictionaries, set differences.
+   8. Difference between sort and sorted.
+   9. Map, filter functions in Python with example.
+   10. What are lambda functions? Where are they used?
+   11. Different approaches in sorting (sorting algorithms).
+   12. What is inheritance? What are its types?
+   13. Types of access modifiers.
+   14. Why is time complexity important?
+   15. Why do we need to have less time complexity?
+
+6. Personality-Based Questions:
+   1. Tell me about yourself.
+   2. What do you know about Tejas Network?
+   3. What are your hobbies?
+   4. You are a Java developer; can you shift to C++ developer?
+   5. Are you okay with the role?
+   6. Extra-curricular activities.
+   7. Family background.
+   8. Do you have any relatives working in WD?
+   9. Are you fine with taking up this role?
+   10. What are your strengths?
+   11. How would you describe yourself with respect to communication?
+   12. How would you rate yourself with respect to flexibility?
+   13. Do you have plans for higher studies?

@@ -1,0 +1,120 @@
+### Coding Problem Solving Questions
+
+#### String
+1. Write a C++ program to reverse a string using recursion.
+2. Write a program to reverse words in a string.
+3. Reverse linked list - Given a string s, reverse only the vowels in it without changing the consonants.
+4. Write a complete C++ program to check if a string is a palindrome.
+5. Given a string "r b y r r b y," arrange it as "r r r b b y y."
+6. Write code to find the length of the longest continuous substring in a given string.
+
+#### Array
+1. Write a Python code to sum array elements until an odd sum is obtained.
+2. Write a code to remove duplicate elements from an array.
+3. Print the duplicate elements in an array.
+4. Sort an array where the first half is sorted in descending order and the second half in ascending order.
+5. Majority element: Given an array, print the majority element if present else print no majority element.
+6. Move all negative elements to either the left or right end of an array.
+7. DSA question: Print the distinct elements from an array.
+8. To sort the 0's to one end in arrays.
+9. Given an array, find the distance between two strings in the arrays.
+
+#### Tree
+1. Explain Binary Search Tree (BST) and its implementation.
+2. What do you mean by a Binary Search Tree (BST)?
+3. Explain pre-order, post-order, and in-order traversals in a binary tree.
+
+#### Dynamic Programming
+1. What is dynamic programming?
+2. Subarray sum equals K.
+
+#### Others
+1. Implement multiplication without using the * operator (use bitwise operators like left shift).
+2. Write a C++ program to input an integer, convert it to binary, and count the number of set bits.
+3. Stack using queue.
+4. Swap 2 variables without using a 3rd variable.
+
+---
+
+### Database Related Questions
+1. Explain normalization and its forms with examples.
+2. Explain types of constraints in DBMS.
+3. What is a database?
+4. Difference between DBMS and RDBMS.
+5. Explain the concept of primary and foreign keys with examples.
+6. Write a SQL query to find the second-highest salary.
+7. Find the second-highest salary in each department, using join with employee and department tables.
+8. SQL rank function to get the second-highest salary.
+9. SQL query to detect duplicate records.
+10. SQL query to update employee names starting from 'sun' to 'moon'.
+11. SQL query to join two tables using a right join.
+12. Explain various types of joins with examples.
+13. SQL query to find employees who joined before their manager.
+14. SQL query to find the employees who were hired in the year 2024.
+15. Explain aggregate functions in SQL.
+16. Write a query to find the second rank student's data.
+17. DBMS: Write the ER diagram for your project schema.
+18. SQL queries on a given weather table (joins based questions).
+19. What are the ACID properties?
+20. Explain locks in DBMS.
+21. What is deadlock, and what are the prevention methods?
+22. What is a DBMS? Provide an example.
+23. Explain the types of normalization.
+24. What are keys and constraints in a database?
+25. Explain the types of joins in a database.
+
+---
+
+### System Design Questions
+1. Explain your project in detail.
+2. Explain the tech stack used in your project.
+3. What are the functionalities of your project?
+4. Explain the different levels of abstraction in DBMS.
+5. How did you integrate MongoDB into your project?
+6. What are the uses of microservices?
+7. What security measures were implemented in AWS?
+8. What are the advantages and disadvantages of AWS?
+9. Explain a trigger and write a sample trigger code.
+10. What is a REST API, and how does it work?
+11. How do you manage failures in a project?
+12. Explain different scheduling algorithms (e.g., Round Robin, Priority Scheduling).
+
+---
+
+### Project Related Questions
+1. Explain your projects in detail.
+2. Describe your project briefly.
+3. Explain the tech stack used in the project.
+4. What made you build many projects?
+5. Explain how you are fetching data from another website (Web Scraping). Explain its syntax.
+6. How your data of the user is updating every four hours (data from the target website).
+7. Explain the project, SQL queries based on the project.
+8. Describe a situation where something didn't go as planned. How did you resolve it?
+9. What were the specific challenges or key features you implemented?
+
+---
+
+### Language Specific Questions
+1. Explain OOP concepts and provide real-world examples.
+2. Difference between function overloading and function overriding.
+3. Constructor vs. destructor.
+4. Explain polymorphism using overloading and overriding.
+5. What is a zombie function?
+6. Explain recursion with examples.
+7. Write a C++ program to optimize parentheses validation.
+8. What is the difference between method overloading and method overriding?
+9. What are virtual functions?
+10. Why include a header file in C++?
+
+---
+
+### Personality Based Questions
+1. How do you justify that you are a team player?
+2. Why did you choose a particular project?
+3. When did you feel proud of yourself?
+4. Share a positive and negative thing about yourself.
+5. How do you handle challenges or difficult situations?
+6. What motivates you to perform well in a job?
+7. How do you manage your time when working on multiple projects?
+8. How do you handle stress and pressure in work situations?
+9. Describe a situation where you had to make a critical decision with limited information. How did you handle it?

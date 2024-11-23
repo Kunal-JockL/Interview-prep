@@ -1,0 +1,50 @@
+1. Theory-Based Questions
+   - Operating Systems
+     - Explain the concept of demand paging in operating systems.
+     - Explain the concept of virtual memory in operating systems.
+   - Database Management
+     - Discuss the normalization process used in the database tables of your project.
+   - Networking
+     - Explain the difference between HTTPS and TCP/IP.
+     - Elaborate on the working of the 7 layers of the OSI model.
+   - Big Data
+     - What is big data?
+
+2. Coding (Problem Solving) Questions
+   - Sorting Algorithms
+     - Implement Merge Sort in C++.
+     - Explain Merge Sort.
+   - String Manipulation
+     - Write a program to reverse a string.
+     - Write a program to reverse a string using a stack, without using any built-in stack library.
+   - Data Structures
+     - Write a program for the implementation of a Binary Tree.
+     - Implement a stack using an array.
+     - Write code for stack implementation and perform an operation to pop the middle element from the stack.
+   - Arrays
+     - Write a program to find the second largest element in an array.
+   - Palindrome Check
+     - Write a program to check if a number is a palindrome or not.
+   - C++ Concepts
+     - Write a complete C++ program implementing OOP concepts.
+     - Write a program to reverse a string using a stack, without using any built-in stack library.
+   - Memory Management
+     - What is malloc?
+     - What is the new keyword in C++?
+
+3. Object-Oriented Programming (OOP)
+   - OOP Concepts
+     - Explain OOPs concepts in detail.
+     - What are the four pillars of OOP?
+     - What are the four pillars of OOPs? Explain with examples.
+     - Using the example of a student class, explain the four pillars of OOP and how they are used.
+     - What is the difference between overriding and overloading? Explain with examples.
+   - C++ Specific Concepts
+     - Explain the concept of virtual functions and friend functions in C++.
+
+4. Project-Related Questions
+   - Explain the projects you have worked on.
+
+5. LRU Cache
+   - Caching
+     - What is LRU (Least Recently Used) and write a code for it.

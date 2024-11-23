@@ -1,0 +1,1640 @@
+Amadeus Interview questions:
+
+Tech round :
+● Implement Merge Sort in C++.
+● Write a complete C++ program implementing OOP concepts.
+● Write a program to reverse a string using a stack, without using any built-in stack library.
+● What are the four pillars of OOP?
+● Explain the projects you have worked on.
+● Explain OS concepts such as semaphores and mutexes.
+● Explain Normalization with an example.
+● Explain Merge Sort.
+● What are the four pillars of OOPs? Explain with examples.
+● Write a program for the implementation of a Binary Tree.
+● Write a program to reverse a string.
+● Write a program to check if a number is a palindrome or not.
+● Implement a stack using an array.
+● What is malloc?
+● What is the new keyword in C++?
+● Write a program to find the second largest element in an array.
+● Explain OOPs concepts in detail.
+● What is the resource power problem in computing?
+● What is the difference between overriding and overloading? Explain with examples.
+● Explain the concept of demand paging in operating systems.
+● Write code for stack implementation and perform an operation to pop the middle element
+from the stack.
+● Explain the difference between HTTPS and TCP/IP.
+● Elaborate on the working of the 7 layers of the OSI model.
+● Discuss the normalization process used in the database tables of your project.
+● Explain the concept of virtual functions and friend functions in C++.
+● Using the example of a student class, explain the four pillars of OOP and how they are
+used.
+● Explain the concept of virtual memory in operating systems.
+● What is big data?
+● What is LRU (Least Recently Used) and write a code for it.
+
+HR round :
+● What differences have you noticed between your hometown and Mysore in terms of
+weather, people, or lifestyle?
+● Have you adopted any feedback you received?
+● What are the things you do outside of academics?
+
+● What is the biggest problem you have faced in your life, and how did you overcome it?
+● Why did you choose that project?
+● Introduce yourself.
+● Where do you see yourself after 3 years?
+● What problems did you face after coming to Mysore?
+● What technologies have you worked on?
+● Describe your family background.
+● What problems did you face before joining this college?
+● Whom do you see as a role model?
+● Tell me about your internship experience, and what work did you do during it?
+● Why are you interested in working at Amadeus?
+● What current technologies are you learning and working on?
+● How comfortable are you with adapting and learning new things?
+● Do you believe in teamwork?
+
+AP Moller Maersk
+
+Role: AIML
+1. Explain any one of the ML algorithms.
+2. Explain the steps to build the classification model.
+3. Find the total number of air conditioners sold in India per year.
+4. To determine the probability that three ants positioned at the vertices of an equilateral
+triangle will not collide as they start moving simultaneously.
+5. Explain in detail Linear Regressions
+6. 2. Now tell me all the processes you would follow once I give you raw data and perform
+Linear Regression on the dataset. Give complete and all steps you would involve.
+7. What is total number of iPhone sold in India
+8. 2. What is the minimum time taken by 4 persons to cross the bridge given that only one can
+use a torch and only 2 people can be present on the bridge at a given instance.
+9. Why this domain?
+10. Explain KNN
+11. What is confusion Matrix
+12. Accuracy and precision
+
+Role: Data Engineering
+
+1. Difference between truncate and delete
+2. Types of join
+3. View, materialized view
+4. Query writing for table data and scenario based.(like About BigData )
+5. Scenario based question about customer data(how to segregate the data kind of)
+6. About projects (challenge you faced, experience).
+7. Why did you choose this company?
+8. Built-in function in SQL
+9. About rank,window etc
+10. About PowerBI
+11. Data warehouse
+12. Query writing :
+13. Retrieve user with top 2nd highest follower in given table data
+
+Role: SDE
+
+1. Why c over c++.
+2. Diamond inheritance
+3. Oops real life examples
+4. SQL query
+5. GitHub discussion
+6. Projects discussion
+7. Open source discussion
+8. Box models in css
+9. Why we should use basic css over imported library like tailwind or material ui
+10. What is bom,dom,pip
+11. Predict Output over a certain code
+12. Difference between bits/c++.h and iostream
+13. Generate a lexicological order palindrome from existing palindrome (writing code)
+14. Difference for and while loop
+15. Api discussion
+16. Backend handling
+
+HR Round Questions:
+
+1. Why did you choose this college?
+2. Did you genuinely achieve all these things in your college life or you have just filled
+your resume.
+3. Your techstack is entirely different from our requirements. Why should we hire you?
+4. If we call your past employer what do you think your feedback would be.
+5. Apart from studies, what else do you do?
+6. Give an introduction about yourself
+7. Tell me about your family
+8. What motivated you to take up AI ML
+9. How supportive are your parents if you are relocating
+10. Do you have any plans to do masters in future
+
+Aptiv Interview Questions
+
+Tech Round Questions:
+● Explain the differences between Python and SQL.
+● How would you connect a Python application to a SQL database?
+● Write a Python program that performs CRUD operations in a SQL database.
+● Why did you choose to pursue a degree in Computer Science?
+● What aspects of Computer Science do you find most intriguing?
+● Where do you see yourself in 10 years?
+● What are your long-term career aspirations?
+● What are your main areas of interest within Computer Science?
+● How do your interests align with your career goals?
+● Describe a project you've worked on in detail.
+● What challenges did you face in that project, and how did you overcome them?
+● Explain the concepts of polymorphism, abstraction, and encapsulation.
+● What are copy constructors, and how do they differ from regular constructors?
+● What is constructor overloading and operator overloading?
+● Define pure virtual functions and virtual functions.
+● Explain the four pillars of OOP in C++.
+● What is the difference between a stack and a queue?
+● Describe the basics of trees (binary trees, binary search trees, etc.).
+● Write a program to find the second largest element in an array.
+● Explain basic string algorithms.
+● Solve the problem: given the sum of n natural numbers excluding 2 consecutive
+numbers, find the 2 consecutive numbers.
+● Explain the difference between threads and processes.
+● What are scheduling algorithms, and can you name a few?
+● What are the steps that a program undergoes before compiling?
+● Discuss process and thread management in operating systems.
+● Write a C program of your choice.
+● Explain pointers and their uses in C/C++.
+● What role does the linker play in the compilation process?
+● Describe dynamic memory allocation in C/C++.
+● How would you reallocate memory dynamically in C?
+● What is the difference between a struct and a union in C?
+● Compare the memory size of struct and union.
+● What is the volatile keyword in C++?
+
+● Implement a class in C++.
+● Explain the OSI model and its layers.
+● Describe CPU scheduling methods.
+● Discuss real-time operating systems (RTOS).
+● Explain network topologies and their types.
+● Describe the concept of shallow copy and deep copy in C++.
+● Explain constructors and destructors.
+● Find the intersection point where two linked lists merge.
+● What factors would you consider if you were to build a movie ticket booking
+application?
+● Describe a scenario where you had to troubleshoot a significant issue in a
+project.
+
+Managerial Round Questions
+● How does communication work in Computer Networks (data communication)?
+● Explain the differences between TCP and UDP.
+● What are the primary functions of the OSI model layers?
+● Describe how routing protocols work in a network.
+● What is the purpose of ARP (Address Resolution Protocol)?
+● What are the different types of algorithms, and how do you classify them?
+● Explain the concept of time complexity and space complexity.
+● How do you analyze the efficiency of an algorithm?
+● What is a greedy algorithm? Provide an example.
+● Discuss the divide-and-conquer strategy with an example.
+● Describe the software development life cycle (SDLC).
+● What are the different software development methodologies (e.g., Agile,
+Waterfall)?
+● Explain the importance of version control systems.
+● How do you ensure software quality and reliability?
+● Discuss the principles of software design patterns
+● Introduce yourself and provide a detailed discussion of one of your projects.
+● What challenges did you face during the project, and how did you overcome
+them?
+● Can you draw the architecture for one of your projects?
+● How did you implement specific features in your project? Discuss deeply.
+● What are closures in JavaScript?
+● Explain the difference between let, const, and var.
+
+● How does event delegation work in JavaScript?
+● Discuss asynchronous programming in JavaScript and the use of Promises
+
+HR Round Questions :
+
+● Tell me about yourself, focusing on aspects not mentioned in your resume.
+● What is the most difficult thing you have faced in your career or studies?
+● Describe a time when you had to overcome a significant obstacle.
+● How do you consider yourself a good team player? Provide a specific situation
+where you demonstrated teamwork.
+● Describe a situation where you had a conflict with a team member. How did you
+handle it?
+● Can you give an example of how you contributed to a team's success?
+● Have you ever taken on a leadership role? Describe that experience.
+● How do you motivate others in a team setting?
+● Describe a time when you had to adapt to a major change in a project or
+workplace.
+● How do you handle stress and pressure in a team environment?
+● Can you provide an example of a difficult decision you made? What was the
+outcome?
+● Describe a situation where you had to make a decision with incomplete
+information.
+● How do you see the skills or knowledge gained from this project benefiting you in
+your future endeavors?
+● Are there any new ideas or improvements you would implement if you had more
+time?
+
+Big Basket Interview questions
+
+● How do you reverse a string in different ways (iteratively, using recursion)?
+● Given a string with nested parentheses, remove the outermost parentheses. For
+example, for "(()())(())", the result should be "()()()".
+● How can you find duplicate characters in a string?
+● Given an array containing 0s, 1s, and 2s, sort the array (Dutch National Flag
+algorithm).
+● How would you find two numbers in an array that add up to a target value?
+(Discuss approaches from brute force to optimized using hash maps.)
+● Find the subarray with the maximum sum in an array (Kadane's Algorithm).
+● Find the subarray with the maximum product.
+● How would you count the number of negative numbers in a row-column sorted
+matrix?
+● Implement stack operations using a class in different data structures (arrays,
+linked lists, etc.).
+● Solve the 3Sum problem: Find all unique triplets in an array that sum up to a
+target value.
+● How can you delete the nth last element from a linked list?What is an inner join?
+Write a query demonstrating its syntax and use cases.
+● How would you use aggregate functions like COUNT(), SUM(), AVG(), MAX(),
+MIN() in a query?
+● Given a database table for train schedules (arrival and departure), how would
+you find the minimum number of platforms required for the given times?
+● How can you partition a database table, and what are the benefits?
+● Explain different types of joins: inner, left, right, full outer, and cross joins
+● How would you detect a loop in a linked list? How can you find the starting point
+of the loop?
+● What are different ways to sort a linked list (merge sort, quicksort)?
+● You have two containers of 3 liters and 5 liters, respectively. How would you
+measure exactly 4 liters?
+● What are the advantages of MySQL over NoSQL databases?
+● Why would you choose a NoSQL database for some applications?
+● Explain database indexing and the different types of indexes.
+● Describe normalization and its types. What are the pros and cons of
+normalization?
+● Explain database locks and their types.
+
+● There are 10 coins, with 5 showing heads and 5 showing tails. You need to
+separate them into two groups such that each group has an equal number of
+heads and tails.
+● Explain the concept of deadlocks and the conditions required for a deadlock to
+occur.
+● What is thrashing in operating systems, and how can it be prevented?
+● Differentiate between multiprocessing and multitasking.
+● What is paging, and how does it relate to virtual memory?
+● Explain the difference between logical and physical addresses in memory
+management.
+● What are the four pillars of OOP? Explain each with examples.
+● What is the difference between method overloading and method overriding?
+● Compare interfaces and abstract classes. When would you use each?
+● Discuss the problems that can arise with multiple inheritance and multilevel
+inheritance.
+● How does the virtual DOM work in React?
+● Explain the concept of conditional rendering in React. Provide examples.
+● What is state management in React? How can state be shared across
+components?
+● What are props in React, and how do they differ from state?
+● Describe the component lifecycle in React. How do lifecycle methods work?
+● What is the difference between HTTP and HTTPS?
+● Explain your project in detail, including the challenges faced and how you solved
+them.
+● Describe the architecture of the system you built.
+● How did you handle data storage and retrieval in your project?
+● What improvements would you make to the project if given more time?
+● How did you ensure the security and scalability of your solution?
+● What are design patterns, and how have you used them in your projects?
+● Discuss the trade-offs between different architectural patterns (e.g.,
+microservices vs. monolithic).
+● Explain High-Level Design (HLD) of a system you have worked on.
+
+Cisco Interview Questions
+
+Tech Round :
+● Define the 7 layers of the OSI model.
+● Give a practical example of a doubly linked list.
+● What is a thread in programming?
+● Describe your project.
+● What is the practical use of your project?
+● What problems did you face during the implementation of your project?
+● What is the difference between IPv4 and IPv6?
+
+Cognizant Interview questions
+
+Tech round questions :
+● Explain the core OOP concepts (e.g., inheritance, polymorphism, encapsulation,
+abstraction).
+● What are the types of inheritance in object-oriented programming?
+● How would you swap two numbers without using a third variable?
+● Write a code to check if a number is a prime number.
+● How do you print "Hello World" in JavaScript?
+● What is the difference between the double equal (==) and triple equal (===) operators in
+JavaScript?
+● What are the types of data types in JavaScript?
+● How would you reverse a string using a DSA approach?
+● Explain different sorting methods and describe how one of them works.
+● Write some SQL queries for basic operations like SELECT, INSERT, UPDATE, and
+DELETE.
+● What is ACID property in DBMS?
+● Explain the concept of normalization and its types.
+● Describe different types of joins in SQL and their use cases.
+
+HR questions :
+●
+● Tell me about yourself.
+● Where do you see yourself in the next five years?
+● What are your short-term and long-term career goals?
+● Why do you want to work in this industry or field?
+● What motivates you to achieve your goals?
+● What are your strengths?
+● What is your biggest weakness, and how are you working to overcome it?
+● Can you describe a challenging situation at work and how you handled it?
+● What are some accomplishments you're proud of?
+● How do you handle feedback or criticism?
+● Can you give an example of a time when you led a team?
+● How do you handle conflicts within a team?
+● What skills are you currently working on improving?
+● How do you stay updated with new trends and technologies in your field?
+● Why do you want to work at our company?
+● What do you know about our company’s values and culture?
+
+● How do you manage your time when working on multiple projects?
+● How do you approach problem-solving in high-pressure situations?
+
+Dish Network Interview questions
+
+Tech Round Questions :
+● Explain your projects in detail.
+● Describe your project briefly.
+● Explain the tech stack used in the project.
+● What are the functionalities of your project?
+● Give an overview of your projects.
+● How did you use exception handling in your project?
+● Questions related to string palindrome projects.
+● Questions based on specific tech stacks like Express, Node, and React.
+● Write a Python code to load data from .csv files to a pandas data frame (project-related).
+● How would you handle a situation where your project head asks you to misreport the
+completion of work to a manager?
+● Explain normalization and its forms with examples.
+● Explain types of constraints in DBMS.
+● What is a database?
+● Difference between DBMS and RDBMS.
+● Explain the concept of primary and foreign keys with examples.
+● Write a SQL query to find the second-highest salary.
+● Find the second-highest salary in each department, using join with employee and
+department tables.
+● SQL rank function to get the second-highest salary.
+● SQL query to detect duplicate records.
+● SQL query to update employee names starting from 'sun' to 'moon'.
+● SQL query to join two tables using a right join.
+● Explain various types of joins with examples.
+● SQL query to find employees who joined before their manager.
+● SQL query to find the employees who were hired in the year 2024.
+● Write a C++ program to reverse a string using recursion.
+● Write a C++ program to calculate the factorial using recursion.
+● Implement multiplication without using the * operator (use bitwise operators like left
+shift).
+● C++ code to sort names in alphabetical order and assign a roll number to each.
+● C++ code for binary search implementation.
+● Python code to sum array elements until an odd sum is obtained.
+● Write a program to reverse words in a string.
+● Write a code to remove duplicate elements from an array.
+● Print the duplicate elements in an array.
+● Sort an array where the first half is sorted in descending order and the second half in
+ascending order.
+
+● Explain OOP concepts and provide real-world examples.
+● Describe the four pillars of OOP: encapsulation, abstraction, inheritance, and
+polymorphism.
+● Difference between function overloading and function overriding.
+● Constructor vs. destructor.
+● Inheritance: Explain its types and the differences between multiple and multilevel
+inheritance.
+● Polymorphism: What is it, and what is the difference between operator overloading and
+overriding?
+● Explain the new keyword in C++ and memory allocation in C.
+● Difference between an array and a linked list.
+● Difference between stack and queue with examples.
+● What is a hashtable and its uses?
+● Explain recursion with examples.
+● ather-son vacation puzzle (age-based puzzle).
+● Puzzle involving divisors.
+● Scenario-based questions about ethical dilemmas in the workplace.
+● What is a zombie function?
+● Explain exception handling, and how it is used in JavaScript.
+● Explain JWT (JSON Web Token).
+● Explain aggregate functions in SQL.
+● What is the OSI model?
+● Write a query to find the second rank student's data.
+
+Managerial Round Questions
+● Explain your projects in detail.
+● Why did you choose a particular project?
+● Why did you use those tech stacks for the projects?
+● Explain the tech stack used in your projects and their details.
+● What made you build many projects?
+● Demo of projects hosted.
+● How do you justify that you are a team player?
+● Project-based questions (e.g., specific functionalities, challenges faced).
+● In-depth explanation about your internship experience.
+● Explain Binary Search Tree (BST) and its implementation.
+● Different types of linked lists (singly, doubly, and circular) and their
+implementation.
+● Applications of linked lists.
+
+● Scheduling algorithms (e.g., Round Robin, First Come First Serve) and their
+applications.
+● Explain polymorphism using overloading and overriding.
+● Differences between function overloading and function overriding.
+● Tell me about yourself (excluding what's on the resume).
+● Tell me your hobbies.
+● Why did you choose to pursue these projects?
+
+HR Round Questions :
+● Tell me about your education and family background.
+● Introduce yourself.
+● Explain your family background.
+● Describe your achievements.
+● What extracurricular activities have you participated in?
+● What are your hobbies?
+● What are you passionate about?
+● When did you feel proud of yourself?
+● What are your strengths and weaknesses?
+● Share a positive and negative thing about yourself.
+● What do you know about Dish Network?
+● What roles are you open to working in after joining Dish?
+● What will you do when you get stuck on a problem?
+● How do you handle challenges or difficult situations?
+
+Epicor interview questions
+
+Technical Round Questions:
+
+● Introduce yourself.
+● What is dynamic programming?
+● Explain your project.
+● How you are fetching datas from another website (Web Scraping).Explain its syntax.
+● How your datas of the user is updating in every four hours(the data from the target website
+from which we are fetching.
+● Datas changes throughout so my website was also updating accordingly, Cron technology i
+explained.)
+● Basic discussion about the schemas
+● used.
+● Insertion in a doubly linked list.
+● Reverse a doubly linked list.
+● Why you chose this college.
+● No questions from OS, CN, DBMS, OOPS
+
+HR Round Questions:
+● Introduce yourself and your family background.
+● Why do you opt for Engineering?
+● What does your father do?
+● Why is your sister not in the engineering field?
+● Will you go for higher studies?
+● How frequently you travel.
+● Which places have you been to in Karnataka (I went to Coorg and she was also from Coorg
+so we discussed some places in Coorg and their beauty.)
+● Why did you choose a college in Mysore and not in Bangalore?
+● Which role you want.
+● Explain any project you worked on and which created a lot of interest in you for this field.
+
+Haladoc Interview Questions :
+
+Technical Round :
+● Shifting zeroes to end,
+● delete node in linked list
+● SQL joins
+● subarray sum equals K
+● DBMS- INDEX AND FOREIGN KEY OS-DEADLOCK
+● frequency if an element in array
+● What is recursion
+● put all zeros to left
+● common character in 3 words in an array
+● Difference between process and threads
+● when does oops programming language stands out from other programming language
+● SQL queries on a given weather table.(Joins based questions)
+● Ranking an array( Gold, silver, bronze positions) based on the given order
+● ACID properties
+● Questions based on concepts used in projects.
+● Reverse linked list. - Given a string s reverse only the vowels in it without changing the
+consonants.
+● Given a function random7 which generates numbers from 1 to 7 with equal probability,
+using this function write random function which generates numbers from 1 to 5 with
+equal probability.
+● Given an array print the majority element if present else print no majority element.
+Majority element is the one whose frequency is greater than (size of array / 2)
+● DBMS: Write the ER diagram for your project schema.
+● OS: About processes and threads.
+● OOPS: Illustrate inheritance with an example.
+● majority element using tree and array sort a positive and negative numbers sqaure
+● virtual memory why it is used?
+● Mysql vs Mongo db
+● node vs react vs express why is react used?
+
+● javascript vs c++
+● To sort the 0's to one end in arrays,To find the distance between the two strings in the
+arrays
+● Stack using queue
+● valid brackets
+● swap 2 variables without using 3rd variable
+● common substring in a list of strings
+● Java oops, merge sort
+● question on indexes in DBMS, deadlock, foreign keys and sql questions.
+
+Managerial Round :
+
+● Linux commands
+● why should we hire you
+● have you got any feedback
+● about project and internship (Based on the resume )
+● About files and Linux.
+● What if you get hired
+● What if you don't get hired
+● Explain the project, sql queries based on the project.
+● Extra curricular activities and achievements
+
+HR round :
+
+● Hobbies
+● What does the company do?
+● How was the experience of the previous interviews
+● Any obstacle that u faced while doing ur projects and how did u overcome that
+● Why do u want to join the company
+● Any further questions or any info u want to know about the company
+● Your biggest failures
+● what makes you angry
+
+
+Havells interview Questions
+
+Tech Round :
+● Explain the objective and overview of your project.
+● What were the key challenges you faced in your project?
+● What technologies, libraries, or frameworks did you use?
+● How did you implement the different modules?
+● What are the ACID Properties in DBMS?
+● Explain the different levels of abstraction in DBMS.
+● What is Normalization, and when should you stop normalizing a database?
+● Explain Locks in DBMS.
+● What is Deadlock, and what are the prevention methods?
+● Write an SQL query to get the total orders with customer ID.
+● What are Joins in SQL?
+● Explain a trigger and write a sample trigger code.
+● Write an SQL query to return department names (dnum) with at least 2 employees using
+a JOIN.
+● Explain the Queue data structure.
+● Why are linked lists used instead of arrays?
+● What do you mean by a Binary Search Tree (BST)?
+● Write code for insertion sort.
+● How many nodes are there in a binary tree with height k?
+● DSA question: Print the distinct elements from an array.
+● Explain BFS and DFS.
+● Write code to move all negative elements to either the left or right end of an array.
+● Explain pre-order, post-order, and in-order traversals in a binary tree.
+● Explain Quicksort algorithm.
+● Given a string "r b y r r b y," arrange it as "r r r b b y y."
+● Explain process scheduling algorithms.
+● What is the difference between threads and processes?
+● Write a C++ code for Pascal's Triangle.
+● Code to move negative elements in an array to the left/right end.
+● Explain your deep learning project.
+● What is a Convolutional Neural Network (CNN), and why is it used?
+● What is the difference between Sigmoid and Softmax functions?
+● What do you mean by an activation function in neural networks?
+● What is a REST API, and how does it work?
+● What are the uses of microservices?
+
+Second Tech Round :
+
+● Explain your project in detail.
+● What were the specific challenges or key features you implemented?
+● Write code for a particular part of your project.
+● How did you integrate MongoDB into your project?
+● What is the best sorting technique, and what is its time and space complexity?
+● Write code to find the length of the longest continuous substring in a given string.
+● What is JWT (JSON Web Token), and how does it work?
+● Explain the signing process of JWT and how tokens are secured.
+
+HPE Interview questions :
+
+Tech round :
+● Explain what technologies were used in your project.
+● What is a constructor and why is it used?
+● What is thread synchronization?
+● What is the difference between 32-bit and 64-bit machines?
+● Explain virtual memory with a real-world example. Where does it get extra memory
+from?
+● What is demand paging?
+● What is a process and a page? Explain the page table.
+● Mention OSI layers and specify the layer where routers operate.
+● What is the difference between TCP and UDP?
+● What is the ping command and where do we use it?
+● What is the difference between threads and processes? Provide a real-world example.
+● Name 10 operating systems.
+● What is the difference between multiprogramming and multitasking?
+● What is RAID?
+● Why do we need an operating system?
+● Explain semaphore operations.
+● Provide real-time examples of different operating systems.
+● What is the difference between paging and segmentation?
+● What are deadlocks and how can they be prevented?
+● What are threads?
+● What is the difference between OSI and TCP/IP models?
+● What is the difference between TCP and UDP?
+● Router vs. Gateway.
+● What is a VPN and why do we use it?
+● Important application protocols: FTP, SMTP, RIP, DHCP.
+● What happens when you type www.google.com in a browser?
+● What is a router?
+● What is a bridge?
+● What are the differences between IPv4 and IPv6?
+● Write a complete C++ program to check if a string is a palindrome.
+● Write a C++ program to input an integer, convert it to binary, and count the number of set
+bits.
+● Puzzle: Find the minimum number of races to determine the top 3 fastest horses from 25
+horses (Answer: 7).
+● Sorted array problem: Return the target number or the largest number less than or equal
+to the target.
+
+● Explain Binary Search Tree (BST) concepts and operations.
+● Implement a stack using an array.
+● What are the real-life applications of a stack?
+● Write a C++ program to optimize parentheses validation.
+● What are OOPs concepts?
+● What are constructors and destructors? Explain types of constructors.
+● What is inheritance? Explain polymorphism. What is the difference between
+compile-time and runtime polymorphism?
+● What is the difference between method overloading and method overriding?
+● Explain access modifiers in C++.
+● What is the difference between call by value and call by reference?
+● What are virtual functions?
+● Why include a header file in C++?
+● Why do we return 0 at the end of a C++ program?
+● What is a DBMS? Provide an example.
+● Explain the types of normalization.
+● What are keys and constraints in a database?
+● Explain the types of joins in a database.
+● What is an agile model?
+● Describe the challenges faced during an internship or project.
+● What tech stack was used in your project and why (e.g., ReactJS, MongoDB, etc.)?
+● What is JWT and how is it generated?
+● Explain future improvements for your projects.
+
+Managerial Round :
+● What was the aim of your project?
+● What technologies did you use, and why did you choose them?
+● How did you approach the problem, and what were the outcomes?
+● Why did you choose AWS for the project?
+● What security measures were implemented in AWS?
+● What made you learn AWS?
+● What are the advantages and disadvantages of AWS?
+● What are the advantages of AI?
+● What are the disadvantages of AI?
+● How do you manage failures in a project?
+● Describe a situation where something didn't go as planned. How did you resolve it?
+● What strategies do you use to recover from setbacks?
+● How do you handle failure in a corporate setting where multiple stakeholders are
+involved?
+● Have you ever had to pivot during a project due to failure?
+
+● How do you prioritize tasks when multiple deadlines overlap?
+● How do you ensure that you focus on important project details without over-explaining or
+losing time?
+● How do you balance project work and ad-hoc tasks?
+● What are some terms you would mention when explaining OS concepts?
+● Explain different scheduling algorithms (e.g., Round Robin, Priority Scheduling).
+● How would you ensure that critical tasks are not delayed due to scheduling?
+● How is data transferred to specific tabs when using multiple tabs (e.g., watching cricket
+in one tab and a football match in another tab)?
+● How do you handle high-pressure situations, such as deadlines?
+● How do you manage team conflicts or disagreements?
+● How do you motivate yourself and others in your team?
+● Describe a situation where you had to make a critical decision with limited information.
+How did you handle it?
+
+HR round :
+
+● Tell me about yourself.
+● Can you share your family background?
+● Why do you want to work at HPE?
+● Where do you see yourself in 5 years?
+● What were your responsibilities during your internship?
+● What did you learn from your internship experience?
+● Can you explain the Full-Time Employee (FTE) role and what excites you about it?
+● What are your hobbies and how do they relate to your work or personal growth?
+● What are some recognitions or achievements you’ve listed on your resume? Can you
+share the stories behind them?
+● How do you manage your time when working on multiple projects?
+● How do you stay updated on current affairs and industry trends?
+● How do you handle stress and pressure in work situations?
+● What motivates you to perform well in a job?
+● How do you approach teamwork and collaboration in a professional environment?
+● What are your strengths and weaknesses?
+● Do you have any questions for us?
+
+Incture Interview questions :
+
+Tech Round :
+● Can you explain the project mentioned on your resume in detail?
+● What is the purpose of the project, and how did you approach its design and
+development?
+● What Object-Oriented Programming (OOP) concepts did you use in your project,
+and how did they benefit your implementation?
+● How did you optimize the performance of your project (e.g., time complexity,
+memory usage)?
+● What challenges did you face while developing the project, and how did you
+overcome them?
+● Can you explain the use of design patterns in your project? Which one(s) did you
+implement and why?
+● How did you handle error handling and logging in your project?
+● How would you optimize the code or database queries for better performance?
+● How would you scale the project for a larger user base or data set?
+● How do you handle tight deadlines and project pressure?
+● How do you manage conflicts within a team?
+● What approach do you take to prioritize tasks during a project?
+● How do you ensure effective communication with your team members?
+● Can you provide an example where you had to take ownership of a project issue
+and resolve it?
+● How did you manage the version control for your project? Which tools did you
+use?
+● How do you ensure the security of data and user authentication in your project?
+● How would you improve the user experience (UX) in your project?
+● What algorithms did you implement, and why were they chosen?
+● How do you optimize the database queries for better performance in your
+project?
+● What architectural patterns did you consider, and why did you choose the one
+you used?
+● How did you test your project, and what strategies did you use to handle bugs
+and issues?
+● If you were to refactor your project, what improvements or changes would you
+make?
+
+● Can you give an example of a pattern-matching problem involving strings?
+● How would you implement a solution to find a substring within a string?
+● Can you explain the concept of string manipulation (e.g., reversing,
+concatenating) in programming?
+● What data structures would you use to optimize string operations, such as
+searching or pattern matching?
+● Can you introduce yourself and explain your academic and professional
+background?
+● How did you come up with the idea for your project?
+● What technology stack did you use for your project, and why did you choose it?
+● What features of your project differentiate it from existing solutions?
+● What are the primary differences between SQL and NoSQL databases?
+● Why would you use MongoDB (a NoSQL database) in a project over a traditional
+SQL database?
+● What are the advantages of MongoDB for handling large, unstructured datasets?
+● What are aggregation functions in databases, and what role do they play?
+● How would you use aggregation functions like SUM, COUNT, AVG, etc., in a SQL
+query?
+● Can you give an example of how aggregation functions are used in MongoDB?
+● How did you utilize data structures and algorithms in your project to improve
+performance?
+● Can you explain the concept of encapsulation, inheritance, and polymorphism in
+your project?
+● How did you implement exception handling and ensure robustness in your
+project?
+● How do you manage object lifecycles in your project, especially memory
+management?
+
+HR round :
+● Can you tell me about yourself and your background?
+● What motivated you to choose a career in software development/engineering?
+● Can you briefly introduce your family and any influences they may have had on
+your career choices?
+● Why are you interested in system design and architecture?
+● How do your personal interests or experiences align with the project/topic you
+chose for system design?
+
+● What are your career goals, and how does system design play a role in achieving
+them?
+
+Infosys interview questions
+
+Tech Round Questions :
+● Check if two strings are anagrams.
+● Selection Sort.
+● Time complexity of all sorting techniques.
+● Difference between linked lists and arrays.
+● What is a stack?
+● What is a queue?
+● Explain deadlocks.
+● What is z-index?
+● Coin exchange problem.
+● Define Overloading and Overriding in OOP.
+● Find the starting point of a loop in a linked list (Linked List Cycle II, Leetcode).
+● Two Sum problems.
+● House Robber DP (Leetcode).
+● Basic questions based on projects & why specific technologies were used.
+
+HR question :
+● What are your strengths and weaknesses?
+● How do you overcome your weaknesses?
+● Why do you want to join Infosys as a Specialist Programmer?
+● Where do you see yourself in 5 years?
+● What is your strength?
+
+Lam research Interview questions:
+
+Tech Round:
+● ip spoofing
+● disaster recovery
+● Explain osi model
+● Firewall
+● About the company and questions on projects mentioned in resume.
+● SQL query on joins given a DB.
+● In CN, about ipconfig and ping commands.
+● A question on the header part of C++ programs like the error that occurs when we use
+cin or cout directly without mentioning 'using namespace std'.
+● Write a c++ program to count the number of white spaces in a string.
+● Which are linear and non - linear data structures and classify them with examples.
+● 4 pillars of oops and difference between encapsulation and abstraction.
+● how do you connect and link two tables - answer is foreign key reference.
+● queries on joins - inner and outer join - first creating table query and then writing join
+query.
+● Questions on projects
+● Basic DSA questions
+● ATM sequence number matching (code)
+● Overloading , overriding and some applications on that
+● Difference between HTTP and HTTPS
+● Index and its types and application
+● Difference between drop, delete, truncate
+● When to use having and where
+● Situation based question like if I'm hosting a party in house what UI will you create and
+queries based on that
+● Ip spoofing
+● Different between switch and router
+● Cloud computing
+● Cloud tools
+● Detailed discussion about my projects.
+● Basic OOPS concept, 4 pillars of OOPS.
+● Via examples explain abstract classes.
+● What is the Mac address?
+
+● Gave me a case where I had to design my application where I needed to explain the flow
+of my application making.
+● So there is a party where u need to group the children(participants) u need to grp them
+by their age group.
+5-7 age grp will play 1 game
+8-10 age grp another game
+11-15 another game.
+Maintain a score board.
+● will your db design look like?
+● How will our flow of application be?
+● What is OSI Model
+
+HR Round
+● About me, my childhood.
+● How is college going?
+● Which is your favorite subject and why?
+● Assume me as an old non technical staff member, and explain to me how ChatGPT works.
+● Which is the toughest situation you have come across.
+● And also about the company.
+● Questions on family background
+● What scares you the most
+● What is your negative things
+● How did you overcome that
+● Scenario based questions
+● Query on joins
+● Project discussion
+● Tell me about yourself.
+● Talk about your Parents.
+● Talk about your friends.
+● Talk abt a situation which was very challenging in your life. (Apart from academics)
+● How did you come out of it?
+
+London Stock Exchange interview questions
+Tech Round Questions :
+● Tell me about yourself.
+● Can you describe one of your projects in detail?
+● What challenges did you face during this project, and how did you overcome them?
+● What technologies did you use, and why did you choose them?
+● What are the key advantages of using cloud computing for businesses?
+● What are the differences between MySQL and NoSQL databases?
+● When would you choose to use a NoSQL database over a traditional SQL database?
+● Can you explain the code you wrote during the coding round?
+● How did you approach the problem of valid parentheses in your coding challenge?
+● Can you provide a puzzle question to test problem-solving skills? (For specific questions,
+contact the provided number.)
+● Explain your approach to three specific DSA questions you’ve encountered.
+● Discuss a dynamic programming-based question you've solved.
+● What are the basic concepts of Object-Oriented Programming (OOP)?
+● What is an abstract class, and how does it differ from a regular class?
+● Explain the concept of abstraction with a real-life example.
+● Provide a real-time example of function overloading.
+● How does method overloading work in programming languages like Java or C++?
+● Explain the use cases for try, catch, and finally blocks in error handling.
+● How do you handle exceptions in your code? Can you provide an example?
+● Explain the right view of a binary tree.
+● Discuss the valid parentheses problem and your approach to solving it.
+● Provide 2-3 puzzle questions that challenge logical thinking.
+● What are your strengths as a candidate?
+● Can you discuss a few of your weaknesses and how you are working to improve them?
+● Discuss a hypothetical puzzle about a criminal case. How would you approach solving
+it?
+● Given n students and m teachers, how many tables would you need to represent the
+relationship? What would those tables look like?
+● What is the difference between dynamic arrays and static arrays in C++?
+● How do pointers interact with these types of arrays?
+● What are the key differences between C and C++?
+
+Lowe's India Interview Questions List
+
+Tech round :
+
+● Detailed project discussion
+● RDBMS vs NoSQL
+● ER diagram
+● Operating system (as it was mentioned in my resume)
+● Questions about projects and internship
+● Sum of odd numbers using javascript
+● Questions about html and css
+● What are challenges you got during the project
+● Why do you want to use javascript and explain about eventlistener
+● Which is your favorite data structure? And questions on its applications.
+● What is a binary search tree? When does time complexity for searching an element become
+O(n) in it?
+● What is tree data structure?
+● What are the features of react and explain hooke's,routers.
+● Discussion about projects and asked to implement some changes.
+● Write syntax for api endpoint in backend.
+● Tell me about yourself
+● Why was MySQL used in one project and MongoDB in another?
+● What was the tech stack of my second project? Where is data stored when someone
+responds to the bot?
+● How is the data stored in MySQL vs MongoDB?
+● Why was React.js never used in any of my projects?
+● What was the need to use the MongoDB cloud in Annapurna?
+● Do you do competitive programming? Which is your favorite data structure?
+● CP: It started with an array one, sir increased the difficulty with each question and it ended up
+becoming hashmaps one. (also had to be solved without using built-in functions)
+● Can you solve the same question in JavaScript? How?
+● What are the different types of Joins in MySQL?
+● Write a query to join 2 tables and find the salary with the name.
+● why did you choose mongodb
+● When will we use mongodb and when mysql?
+● ER diagram for the database of your project.
+
+● advantages of oops.
+● Joins queries and types
+● Real life application of arrays and linked lists.
+● polymorphism in oops
+● OOP concepts: encapsulation, inheritance, polymorphism, abstraction.
+● Real-time scenarios of OOP concepts.
+● Real-life use of linked lists and stacks.
+● DBMS: normalization, basic WHERE, COUNT queries, joins, triggers.
+● DBMS project discussion: schema, ER diagram. Asked to add new functionality and features.
+● Project explanation,about technologies used in project,API,DSA question on arrays and
+strings
+● Mostly on projects, graph applications, binary search tree,red black trees,array elements
+frequency counting optimization , SQL triggers, difference between SQL and No SQL and
+when will you choose what, difference between http and https
+● About my work experience
+● Why did i choose the projects that i have mentioned
+● Then questions on API integration
+● why GraphQL
+● Explain GraphQL
+● My Internship Job
+● Explained about my 3 projects in my Internship
+● Integration of OpenAI in my internship and explanation on them
+● One on array of strings where in an array there shall be elements like dog,god,cat,act we need
+to seperate them acc and return as {{dog,god},{act,cat}} he then made it more difficult by
+adding multiple inputs coz my approach was for 2 elements then he added other strings as
+od odg odz so we need to sort them again
+● find a key value is present or not in the binary search tree
+● How is authentication being done
+● What is socket io
+● How message is being sent
+● What do you mean by responsive? How did you make it responsive
+● What did you study up till now in CN?
+● Name and explain some application layer protocols
+● Name the port numbers of those protocols
+● What is the difference between https and http
+● DS questions
+● What is an AVL tree?
+● What is the use of AVL trees?
+● What's the problem in creating a Binary Search Tree out of a sorted array?
+● Given an array of n integers containing 0-9 calculate the frequency of each.Verify if all the n
+numbers were counted
+● Project based questions, Linked list, Graph, Trees, Devops, Real life use cases of Data
+structures, backend design, REST architecture
+
+● Questions on linked list and array
+
+HR:
+● Things you want to change about yourself
+● Things that you don't want to change about yourself
+● Things that people want to change about you
+● Your biggest failure
+● What changes do you see in yourself throughout your engineering journey
+● Background and journey till now.
+● How do you handle mistakes done by you?
+● How do you stay motivated while working on a single long project?
+● Experience of working in a team and managing teammates.
+● How do you learn new things?
+● How do you ensure customer satisfaction?
+● Tell me about yourself
+● How do you keep track of all the things you do?
+● Tell me about your projects about how you built them but nothing in technical sense (like
+contributions, difficulties faced, lessons learnt)
+● Some questions around Youtube Channels
+● How do you make sure to reach your goals by the end of the day?
+● If you are put in a new place where you know nothing and nothing about the topic but have
+to do a project within a short deadline how will you do it?
+● What is the biggest difficulty you have faced when working for clubs and how did you
+resolve them?
+● How do you make sure to learn at the end of the day when you are doing so many things in
+parallel?
+● Tell me about the project(first project in resume)
+● How did you manage your projects with college work?
+● what did u do when your team members weren't agreeing on a point(how did u convince
+them)
+● How do you handle stress
+● any questions for us.
+● How did you adjust to new place, biggest failure, what do u want to improve about urself
+● Later she asked me to explain each and every thing on the project and as a lead in the project
+how did i manage all the problems that we faced how we divided the project
+● They jumped onto personal questions such as my failure in life and what did i learn how i
+overcame them
+● then i asked about company and her experience
+
+● Normal HR questions like what are your strengths and weaknesses, Any conflict which you
+had with your project team.... hobbies etc
+
+MathCo interview questions
+
+Tech Round 1 :
+● Write an SQL query using joins and where conditions.
+● Write an SQL query using the BETWEEN operator and the HAVING clause.
+● How do you reverse a list without using the reverse function?
+● Explain and demonstrate the slice function in Python.
+● How do you find the maximum element in a list of numbers?
+● Write a pseudocode to find the frequency of vowels in a given string.
+● How would you report on Amazon's Great Indian Sale performance? What key metrics
+would you track?
+● What KPI meters would you design to report to your manager at Amazon? For example,
+tracking differences in sales over time.
+
+Tech Round 2 :
+● Describe a DBMS project you have worked on. What were the key challenges and how
+did you solve them?
+● Explain the bubble sort algorithm. How does it work and what is its time complexity?
+● There is an amoeba in a box that doubles every second. If the box is full at 60 seconds,
+when was it half full?
+● If an amoeba duplicates every second and the container is full in one minute, when was
+it half filled (in seconds)?
+● Guesstimate the number of taxis in Mysuru.
+● How would you estimate the amount of water used in one day by your college?
+● What is your weakness? What steps have you taken to improve it?
+● Give an example of a time when you demonstrated leadership.
+● Break down the MakeMyTrip app into its key components and explain how it functions.
+● How do you estimate the number of taxis in Mysuru?
+
+Miq digital Interview questions
+
+Tech Round :
+
+● Explain Java and the concepts of Object-Oriented Programming (OOPs).
+● How do you apply OOP concepts such as inheritance and polymorphism in a real-world
+scenario like an Air Conditioner (AC) system?
+● Discuss function overriding in Java with examples.
+● What is meant by string immutability in Java?
+● What is the difference between == and .equals() in Java?
+● What is JVM (Java Virtual Machine)?
+● Explain the Hare and Tortoise method. How does it work? What is its time complexity?
+● What is the time complexity of solving the "pairs with a given sum" problem?
+● Explain Merge Sort and analyze its time complexity.
+● How does Binary Search work? What is its time complexity?
+● Find the missing number in an array.
+● Find the nth node from the end in a Linked List.
+● Explain abstraction and encapsulation for a beginner with examples.
+● Explain the space complexity of the Two Sum problem and the Detect Loop in a Linked List
+problem.
+● Write an SQL query to join four tables and display the results.
+● What are the types of joins in SQL?
+● What is a composite key? Provide an example.
+● Design a College Database with student info, subject info, and semester info.
+● Write a query to give all student info who scored max marks in each semester from the
+College Database.
+● Explain the ACID properties of DBMS and relate them to real-world problems.
+● What is a deadlock in computer systems?
+● What are the necessary conditions that can lead to a deadlock?
+● Difference between NoSQL and MySQL databases.
+● What are the differences between Isolation and Consistency in ACID? Explain Dirty Read and
+Phantom problems.
+● What are the SOLID principles in system design?
+
+● Explain client-server architecture.
+● What is two-way handshaking in networking?
+● Discuss Normalization and perform up to 5NF on a table.
+● Define OOPs concepts with tech-related real-time examples, not animals or vehicles.
+● What is the difference between abstract classes and interfaces? Where would you use each?
+● What is normalization? Explain with examples.
+● What is the difference between virtual functions and polymorphism?
+● Explain the mathematics behind linear regression and logistic regression.
+● What is the difference between linear regression and logistic regression?
+● Why is Mean Squared Error preferred over Mean Absolute Error?
+● Explain precision, recall, and accuracy in machine learning.
+● What is p-value in the context of hypothesis testing?
+● Why is the sigmoid function used in logistic regression?
+● Explain the assumptions required for linear regression.
+● Explain false positives and false negatives with examples.
+● Explain the JavaScript Event Loop.
+● Is JavaScript single-threaded or multi-threaded? Explain.
+● How does JavaScript handle asynchronous functions?
+
+Managerial Questions :
+
+● Find the second-highest salary of the employee in the table (SQL).
+● Explain all the concepts of OOPs in 2 minutes.
+● How would you handle edge cases for problems like Two Sum and detecting a loop in a
+Linked List, including handling zeros?
+● Describe your most challenging project and how you approached it.
+● Why did you choose NoSQL or SQL databases for your project? What are the differences
+between the two?
+● Why MongoDB? When would you prefer using it over SQL databases?
+● Describe a situation where you faced a challenge while deploying your project.
+● What is your experience with UI libraries, and how have you used ReactJS for state
+management and routing?
+● How do you ensure the smooth flow of a project from start to finish?
+
+● Discuss any challenges you faced while working on your projects.
+● How would you improve the performance of your project if it had scalability issues?
+● Can you explain the flow of your project in terms of architecture
+
+HR Round :
+● Introduce yourself.
+● What are your strengths and weaknesses?
+● Why did you choose the National Institute of Engineering (NIE)?
+● Do you have any plans for higher studies?
+● How do you feel about the stipend being offered?
+● How would you handle pressure if overwhelmed with a lot of work?
+● How do you respond to negative feedback?
+● How would you feel if we rejected you?
+● Tell me about your hobbies.
+● What do you do in your free time?
+● How do you handle stress or tight deadlines?
+● Where do you see yourself in 5 years?
+● Are you comfortable with relocation or working in different locations?
+● How do you prioritize tasks when you have multiple deadlines?
+
+National Instruments 2
+
+● First and Last Position of an Element in a Sorted Array
+● Search in a Rotated Sorted Array
+● Median of Two Sorted Arrays
+● Square Root of an Integer using Binary Search
+● Find Peak Element in an Array
+● Kth Smallest Element in a Sorted Matrix
+● Capacity to Ship Packages within D Days
+● Aggressive Cows Problem (Maximum Minimum Distance)
+● Search in a 2D Matrix
+● Find Minimum in Rotated Sorted Array
+● Longest Increasing Subsequence (LIS)
+● 0/1 Knapsack Problem
+● Edit Distance (Convert String A to String B)
+● Longest Common Subsequence (LCS)
+● House Robber Problem
+● Coin Change Problem (Minimum Number of Coins)
+● Subset Sum Problem
+● Burst Balloons (Maximum Coins)
+● Partition Equal Subset Sum
+● Maximum Product Subarray
+
+Oit dahramyan interview Questions :
+
+Technical Round Questions:
+● What is your favorite data structure and then questions on that . Stack : Valid Parentheses
+● Array : 2D array , Subarray with min. Sum
+● Difference between primary and unique key
+● Question from skills in resume
+● Algorithms : Knapsack and traveling salesman
+● implement interface class to have the minimum element in the stack in O(1) time complexity
+● Square of array elements in less than O(n)
+● What is the difference between react js and angular .
+● What is index in rdbms?
+● difference between all the joins in dbms
+● What are different pillars of oops? explain it taking a real life example
+
+HR Round Questions:
+● Family background
+● Why this college
+● Why this company
+● Hobbies
+● Question about hobbies
+● mention 3 of your strong and weak points
+● mention about yourself and your hobbies
+● why you want to join a startup?
+● what do you know about the company?
+
+Oracle Interview Questions
+
+Tech Round Questions :
+● What are triggers, procedures, and functions in DBMS? Provide examples.
+● Explain the difference between a function and a stored procedure.
+● Write SQL queries using Joins, Views, and Indexes.
+● What is an Object in SQL?
+● Explain NVL and Cursor in SQL.
+● What is the difference between DELETE and TRUNCATE?
+● What are the different types of views in SQL?
+● Explain the different types of languages in DBMS like DDL, DML, DCL, TCL, DQL.
+● Write queries about commits, rollbacks, and transactions.
+● Discuss constraints, indexes, and intersection in SQL.
+● What is database designing, and how does it differ from database management?
+● What are the different versions of MySQL?
+● Explain Joins, Views, Triggers, and Indexes in DBMS.
+● Write a flowchart representing the campus interview process.
+● Describe your projects in detail.
+● How did you achieve certain functionalities in your project?
+● How did you integrate front-end and back-end technologies?
+● Explain how Docker works, its uses, and the problem it solves.
+● What technologies did you use for front-end and back-end development?
+● Check if a number is a palindrome.
+● Write a code to swap two numbers without using a third variable.
+● Print an empty diamond pattern in C.
+● Explain Recursion with an example, such as the Fibonacci series.
+● Write a code to implement basic sorting algorithms.
+● Explain and implement OOPs concepts in C++.
+● Write Python code to retrieve rows from an Excel file based on matched data across
+multiple sheets.
+● What are the four pillars of OOP (Object-Oriented Programming)? Provide examples.
+● What is the difference between single-level and multiple inheritance?
+● What is runtime polymorphism? Explain with an example.
+● What are the differences between C and C++?
+● Explain OOP concepts in C++: encapsulation, inheritance, polymorphism, and
+abstraction.
+● Write JavaScript code to prompt users as they type (using event listeners).
+● How do you create moving bulletins using CSS?
+● Explain HTML, CSS, and JavaScript functions for displaying alerts, prompts, and event
+listeners.
+● What is the difference between GET and POST in web development?
+● Explain REST API and its importance in web development.
+
+● What are the different types of clouds (public, private, hybrid)?
+● How do cloud services like AWS, Azure, and Google Cloud differ?
+● What are the key benefits of using cloud platforms for businesses?
+
+2nd tech Round
+
+● Tell me about yourself.
+● Introduce your family members.
+● If selected, are you willing to relocate?
+● What is your opinion on AI and its future impact?
+● What do you think is better, Specialization or Generalization?
+● Explain your recent projects in detail.
+● How did you approach the challenges in your project?
+● Can you describe the key technologies used in your project?
+● How does your project contribute to solving real-world problems?
+● Questions based on specific points from your resume (technical skills, achievements,
+etc.).
+● Write code to add two matrices.
+● Solve a coding problem involving basic sorting or searching algorithms.
+● Explain how exception handling works in C++ with examples.
+● Implement an algorithm to count distinct elements in an array.
+● Explain different tree traversal techniques (in-order, pre-order, post-order).
+● Write a query to count the number of employees in a department.
+● Write an SQL query to retrieve data from multiple tables using JOINs.
+● Explain how you would use indexes to optimize a query.
+● Write a query to find the second highest salary in a company.
+● Explain the differences between GROUP BY and HAVING clauses in SQL.
+
+3 rd Round :
+● Explain SQL Joins and the different types (INNER, LEFT, RIGHT, FULL).
+● Write a query using an INNER JOIN to retrieve data from two related tables.
+● What is the difference between INNER JOIN and OUTER JOIN?
+● How do LEFT JOIN and RIGHT JOIN work? Provide examples.
+● Write a query to find common records between two tables using INNER JOIN.
+● Are you willing to relocate if selected?
+● How do you feel about moving to a new city or country for a job?
+● What factors would you consider before making a decision to relocate?
+● How would you adjust to a new work environment in a different location?
+● Tell me about a time you adapted to a new situation or environment.
+
+● How do you handle changes in your personal or professional life?
+● What are your hobbies and interests outside of work?
+● How do you maintain a work-life balance?
+
+Samsung Interview questions:
+
+● Project explanation, basic c/c++ concepts, 3 coding question(find the frequency of given
+element in array , rotated array, majority elements) , o.s concepts( mutex/locks, semaphore,
+synchronization, starvation, priority inversion).
+● They asked projects, and technical used in projects
+● What is Multithreading, MultiProcessing, Multitasking?
+● What is embedded system. Give a real life example.
+● Write a Program to find the count of a particular element in a sorted array?
+● What is binary Search. Use binary search for finding the count of an element in array?
+● What is pointer, malloc, calloc?
+● What do you mean by paging and virtual memory?
+● What are operating system, Application, Process, Threads?
+● When do we use user and kernal modes and what exactly happens in those modes, threads
+in user and kernal mode, what are interrupts and how to avoid them
+● give an example for hardware interrupts, calculate the space consumed for 10*10 bits which
+consists of pixels, how many bits are there in 1byte, 1mb, 1gb, 1tb, which data type is used to
+store images int or char?
+● Why do we use oops, what are inheritance, compile time/static polymorphism, run
+time/dynamic polymorphism, abstract classes?
+● Which language is considered the fastest between c, c++, java?
+● Give Detailed explanation for any one of your projects
+● Tell me about yourself
+●
+● Rotate an array by one place
+● Bitwise binary operator
+● Implement stack using linked list
+● Problem solving ability questions:
+● Given three eggs find the breaking point of the egg assuming all the three eggs have the
+same breaking point when thrown from the building having 10 floors. Which floor is the
+optimal solution?
+● operator overloading questions
+
+Sap Labs Interview questions
+Tech Round 1 :
+● What is normalization in DBMS?
+● What are the differences between Truncate, Drop, and Delete in SQL?
+● Explain Union and Union All with an example.
+● What is a subquery? Demonstrate with an example.
+● Explain insertion sort with an example and write the pseudocode.
+● What is the difference between C++ and Python?
+● Explain the advantages and disadvantages of Python compared to C++.
+● What are the advantages of OOP, and how is it implemented?
+● How much space does a class occupy?
+● Why are databases and DBMS used, and where are they applicable?
+● How would you describe an ideal manager?
+● How would you handle an angry customer?
+● What are the differences between malloc and calloc?
+● Explain the challenges faced during your project.
+● Why did you choose NIE over SJCE?
+● Why did you opt for Mysuru over colleges in your native place?
+● What is the difference between authorization and authentication?
+● What is an operation in programming?
+● Convert uppercase to lowercase in a string.
+● Describe any real-life problem you have faced.
+● What are your hobbies?
+● Do you have any questions?
+● What are joins in SQL? Explain each type with a diagram.
+● What is a stored procedure and a trigger? What are the differences, and where are they
+used?
+● When would you use a 'Having' clause vs. a 'Where' clause in SQL?
+● Explain a class and an object with a real-world example.
+● What is call by reference and call by pointer in C++?
+● Describe the workflow of your projects.
+● Why did you use JWT tokens, and how do they work?
+● Explain a subquery and provide an example.
+● Why do you think you are the best fit for this role (Customer Support Engineer)?
+● What skills match this role better?
+● How can we convert a string to uppercase in programming?
+● What is the difference between a process and a thread?
+● What are the states of a process?
+● What do you know about our company?
+● What are transactions and ACID properties in DBMS?
+● How would you handle a team situation while working on a project?
+
+● What is the Waterfall model in software development?
+● Explain different software development life cycle models.
+● What is linear regression?
+● Explain normalization forms in DBMS.
+● What is polymorphism in OOP?
+● What is abstraction in OOP?
+● What is the difference between the WHERE and HAVING clauses in DBMS?
+● What are DDL and DML in DBMS?
+● How did you troubleshoot issues in your project?
+● What are the pillars of OOP?
+● Explain how insertion sort works with a pseudocode example.
+● Print a pyramid star pattern.
+● Explain SAP and why you want to work with it.
+● Solve the torch and bridge puzzle.
+● Solve the 3L and 5L bucket puzzle to collect 4 liters of water.
+● Solve the frog-in-a-well puzzle.
+
+Tech Round 2 :
+● Explain DBMS queries.
+● Explain OOP concepts.
+● How would you convince a customer to buy a pen?
+● What is cloud computing?
+● What is software engineering?
+● Explain computer networks in detail to someone unfamiliar with them.
+● What is your project about, and why did you find it more interesting than other projects?
+● Provide a detailed explanation of your project and the technologies used. Why did you
+choose those technologies (e.g., why MySQL and not MongoDB)?
+● What do you know about SAP?
+● Write an SQL query to create a table and perform operations with the data.
+● What challenges did you face in your project, and how did you overcome them?
+● Why are you interested in this particular role?
+● Why do you want to work at SAP?
+● Answer scenario-based questions related to customer service or project management.
+● Describe your family background.
+● How does your project align with the requirements of this job?
+
+Managerial Round :
+
+● Introduce yourself, including your academic journey, family background, and personal
+interests.
+● Tell me about the college club you work with and how things operate there.
+● What is the hardest situation you’ve faced while working for the club, and how did you
+solve it?
+● If a team member is not performing their tasks correctly, how would you handle the
+situation? Give a real-life example.
+● Share something about yourself that is not mentioned in your resume.
+● What is one extracurricular activity you excel at?
+● How well can you express yourself on stage? Provide an example.
+● What challenges did you face in your project, and how did you overcome them?
+● Explain the encryption and authentication techniques used in your project.
+● Describe a leadership role you took.
+● How did you manage teamwork in your academic projects?
+● How did you manage the first year of college?
+● How do you overcome difficulties?
+● Where do you see yourself in 5 years?
+● How would you handle relocation for a job?
+● Explain the working of your project in detail.
+● Explain the difference between a normal method, constructor, and static method in a
+class. How do you initialize objects for them?
+● How would you approach a DSA problem involving stacks and queues?
+● What is an abstract method in OOP?
+● Solve two puzzles involving predicting the next sequence and give different logics for
+them.
+● Why do you think this Customer Support role is the best fit for you compared to technical
+roles?
+
+Schneider Electric Interview Questions :
+
+Technical Round Questions:
+● Introduction about myself
+● Project explanation
+● Questions regarding project-rest apis how to solve errors, scalability etc
+● What we're the difficulty faced during academics and how you overcame that
+● Oops concepts, Interface. Types of data structures and their real time applications.
+● Sql- given a table with 2 different products and their quanties with were sold on a particular
+day . Write a sql query that return the day of 2nd highest sale. Can be done using
+row_number function.
+● Questions about the project and detailed explanation of crud operation implemented in the
+project.
+● Printing the repetitive char in a given string using any algorithm for your wish.
+● Field you are interested in and how are you preparing for that
+● consider string interview and find the frequency
+● create table and extract any 2 column under specific date
+● About project. ,. Tech stack used in project. , Question on python (nothing specific related to
+project - flask )
+● Talk about projects and technologies used for each and why those were chosen in particular.
+● Interested career domain and questions about it.
+● How real time video communication works.
+● What technologies are used for security during online transactions.
+● Projects you want to work on in the future.
+● New skills that you have worked on and the challenges you faced while learning.
+
+HR Round Questions:
+● Are you ok with relocation. opinion on digitalization
+● where do you see yourself in next 3 years.
+● Have You Faced Any Difficult Situations In Your Past Work Or College
+● Experiences?
+● How Did You Handle Them?
+
+Spens
+
+Problem Solving Round and DSA:
+1. eg of data abstraction , root of an number , sql query on count of attendance for a month
+2. Find the square root of a given number up to the third decimal place. Given input may or may
+not be a perfect square.
+3. Finding second largest number in the array ,
+4. Sql query Like count the attendance of student in particular month
+5. Return substring contains palindrome in a string, largest second number in a array
+
+System Design Round:
+1. List the modules of an e-commerce system like amazon. How will the delivery system know
+where to take the items from? How is the problem related to payment resolved where while a
+transaction takes place a pop up may come saying ' transaction taking place please do not
+click back' but you click back. How does the recommendation system work on the front page
+of the user?
+2. Explain System design of Uber
+
+Logical reason round:
+1. Question is based on how you manage the memory allocation when you Continusely data is
+coming in every second
+
+TE connectivity Interview Questions
+
+Technical Round Questions:
+
+● Power BI fundamentals,explaining projects, Machine learning projects
+● What is a Wildcard in SQL?
+● Tell me about your one project.
+● What is outer and inner join?
+● What are linear and non linear data structures?
+● Definition of all data structures.
+● How trees are different from graphs.
+● Technologies used in the project.
+● About job roles, DBMS structure, and Data structure definitions,project explanation
+● Walk me through your resume.
+● CRUD operations
+● What are algorithms?
+● What are trees?
+● What are graphs?
+● Steps involved in data engineering.
+● Why do we clean data?
+● Non linear data structures?
+● INTRODUCE yourself
+● Python loops, List ,Tuples , Class,Self keyword, Inheritance
+● Complete explanation of the data Structures
+● ML Algorithms...Supervised and Unsupervised Algos any 1 from each
+● Projects Explanation
+● Central Tendency , Z-Score, hypothesis tests, student t distribution
+● Conditional probability , Normal Distribution and its significance
+● DBMS and SQL: ACID properties , Normalisation, Joins , difference between the join and
+union, view significance, difference between subqueries and joins
+
+HR Round Questions:
+● Why do u want to join TE,
+● how much years are u ready t give commitment to TE,
+● why data analyst role
+
+● Introduce yourself
+● Which subject is favorite in your SSLC and PU
+● Give some points opposite to your fav sub
+● Family Background
+● Opinion about the higher studies
+
+Tejas Network Interview Questions :
+
+Technical Round Questions:
+● Rotate matrix by 90 degree without using transpose.
+● Why do we use namespace std.
+● Memory management in c++.
+● Oops concept virtual functions,abstract classes.
+● Core subjects (CN,Oops,OS), basic DSA problems and some c++ related questions
+● Basic os n cn question
+● Tell me about yourself
+● Explain the projects you've done
+● What are Friend functions
+● What is Dangling pointer
+● Memory allocation in c++
+● Rotate an array to 90 degree
+● Paging and segmentation
+● Memory leak
+
+HR Round Questions:
+● What do you know about Tejas Network?
+● What are your hobbies?
+● You are a Java developer can you shift to c++ developer
+● Briefed me abt internship process and fte
+
+WD Interview questions
+
+Tech - 1 round Questions :
+● Project explanation
+● sql window function
+● aggrigate functions
+● Triggers
+● complete schema of database
+● dense rank ,rank
+● Functions
+● Procedures
+● Lists, Tuple, Dictionaries, Set differences.
+● Difference between sort and sorted.
+● map, filter functions in python with example.
+● what are lambda functions?where are they used?
+● Different approaches in sorting (sorting algorithms).
+● What is inheritance?what are it's types?
+● types of access modifiers
+● Why is time complexity important?
+● why do we need to have less time complexity?
+● What is the difference between primary key and unique?
+● What are the type of joins?
+● What is rank and dense rank in sql? what is the difference?
+● What are the aggregate functions in sql?
+● What are the constraints used in sql queries?
+● Few project related questions
+● Slice in python? And various questions on it
+● Oops principles
+● Sql constraints
+● SQL basic insertion, deletion, viewing, Questions were more on projects, what is
+flask?(python framework)
+
+Tech - 2 round questions :
+
+● Project explanation
+● Kaggle data base
+● sql constraints
+● sql aggregate functions 6.kaggel database 7.where do you want to see yourself
+in 5 years
+● Asked to explain projects.
+● Asked where I used python, certain concepts of dbms in projects (project related)
+(role was based on python and sql so)
+● What is the difference between dbms and dbms?
+● What is the difference between tier1 and tier 3 in architecture in dbms?
+● Joins in sql
+● Aggregate function
+
+Managerial Round :
+● Project explanation
+● Scenario based questions
+● What will you do if a senior manager gives you a small amount of work and doesn't respond
+properly? What will you do if your senior manager tells you to delete some files which are
+creating issues In the system?
+● How do you split work among a team?
+● Explained about role and asked if I was fine with it
+● Explain working of 7 osi layers with protocols used in each layer
+● What is the difference between tcp and udp? Give examples where these protocols are used
+● What is kernel?
+● In a system, if some processes are not getting resources at all, how do you make sure this is
+solved?
+● Have you worked with APIs? and few following questions related to project
+● How would you send log data reporting system parameters regularly through mail?
+
+HR Round :
+● Are you okay with the role?
+● extra curricular activities
+● Family background
+● Do you have any relatives working in wd?
+● Are you fine with taking up this role?
+● What are your strengths?
+● How would you describe yourself wrt communication?
+● How would you rate yourself wrt flexibility?
+● Do you have plans for higher studies?
+

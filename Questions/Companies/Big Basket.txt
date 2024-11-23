@@ -1,0 +1,66 @@
+1. Coding (Problem Solving) Questions
+   - Strings
+     - How do you reverse a string in different ways (iteratively, using recursion)?
+     - Given a string with nested parentheses, remove the outermost parentheses (e.g., "(()())(())" → "()()()").
+     - How can you find duplicate characters in a string?
+   - Arrays
+     - Given an array containing 0s, 1s, and 2s, sort the array (Dutch National Flag algorithm).
+     - How would you find two numbers in an array that add up to a target value? (Discuss approaches from brute force to optimized using hash maps.)
+     - Find the subarray with the maximum sum in an array (Kadane's Algorithm).
+     - Find the subarray with the maximum product.
+   - Matrix
+     - How would you count the number of negative numbers in a row-column sorted matrix?
+   - Stacks
+     - Implement stack operations using a class in different data structures (arrays, linked lists, etc.).
+   - Linked Lists
+     - How can you delete the nth last element from a linked list?
+     - How would you detect a loop in a linked list? How can you find the starting point of the loop?
+     - What are different ways to sort a linked list (merge sort, quicksort)?
+   - 3Sum Problem
+     - Solve the 3Sum problem: Find all unique triplets in an array that sum up to a target value.
+   - Puzzle Problem
+     - You have two containers of 3 liters and 5 liters, respectively. How would you measure exactly 4 liters?
+   - Coins Puzzle
+     - There are 10 coins, with 5 showing heads and 5 showing tails. You need to separate them into two groups such that each group has an equal number of heads and tails.
+
+2. Theory-Based Questions
+   - Databases
+     - What is an inner join? Write a query demonstrating its syntax and use cases.
+     - How would you use aggregate functions like COUNT(), SUM(), AVG(), MAX(), MIN() in a query?
+     - Given a database table for train schedules (arrival and departure), how would you find the minimum number of platforms required for the given times?
+     - How can you partition a database table, and what are the benefits?
+     - Explain different types of joins: inner, left, right, full outer, and cross joins.
+     - What are the advantages of MySQL over NoSQL databases?
+     - Why would you choose a NoSQL database for some applications?
+     - Explain database indexing and the different types of indexes.
+     - Describe normalization and its types. What are the pros and cons of normalization?
+     - Explain database locks and their types.
+   - Operating Systems
+     - Explain the concept of deadlocks and the conditions required for a deadlock to occur.
+     - What is thrashing in operating systems, and how can it be prevented?
+     - Differentiate between multiprocessing and multitasking.
+     - What is paging, and how does it relate to virtual memory?
+     - Explain the difference between logical and physical addresses in memory management.
+   - Object-Oriented Programming (OOP)
+     - What are the four pillars of OOP? Explain each with examples.
+     - What is the difference between method overloading and method overriding?
+     - Compare interfaces and abstract classes. When would you use each?
+     - Discuss the problems that can arise with multiple inheritance and multilevel inheritance.
+   - React (Frontend Development)
+     - How does the virtual DOM work in React?
+     - Explain the concept of conditional rendering in React. Provide examples.
+     - What is state management in React? How can state be shared across components?
+     - What are props in React, and how do they differ from state?
+     - Describe the component lifecycle in React. How do lifecycle methods work?
+   - Networking
+     - What is the difference between HTTP and HTTPS?
+   - Project-Related Questions
+     - Explain your project in detail, including the challenges faced and how you solved them.
+     - Describe the architecture of the system you built.
+     - How did you handle data storage and retrieval in your project?
+     - What improvements would you make to the project if given more time?
+     - How did you ensure the security and scalability of your solution?
+   - Design Patterns and Architecture
+     - What are design patterns, and how have you used them in your projects?
+     - Discuss the trade-offs between different architectural patterns (e.g., microservices vs. monolithic).
+     - Explain High-Level Design (HLD) of a system you have worked on.

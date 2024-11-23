@@ -1,0 +1,71 @@
+Coding Problem Solving Questions:
+
+String Questions:
+1. Can you give an example of a pattern-matching problem involving strings?
+2. How would you implement a solution to find a substring within a string?
+3. Can you explain the concept of string manipulation (e.g., reversing, concatenating) in programming?
+4. What data structures would you use to optimize string operations, such as searching or pattern matching?
+5. Write a pseudocode to find the frequency of vowels in a given string.
+6. Write a C++ program to count the number of white spaces in a string.
+7. One on an array of strings where in an array there shall be elements like dog, god, cat, act we need to separate them and return as {{dog, god}, {act, cat}}.
+
+Array Questions:
+1. Selection Sort.
+2. Coin exchange problem.
+3. Two Sum problems.
+4. House Robber DP (Leetcode).
+5. Write a query to join 2 tables and find the salary with the name.
+6. Find the starting point of a loop in a linked list (Linked List Cycle II, Leetcode).
+7. Given an array of n integers containing 0-9 calculate the frequency of each. Verify if all the n numbers were counted.
+
+Tree Questions:
+1. Explain the right view of a binary tree.
+2. What is a binary search tree? When does time complexity for searching an element become O(n) in it?
+3. What is an AVL tree? What is the use of AVL trees?
+4. Find a key value is present or not in the binary search tree.
+5. Discuss the valid parentheses problem and your approach to solving it.
+6. Given n students and m teachers, how many tables would you need to represent the relationship? What would those tables look like?
+
+Dynamic Programming Questions:
+1. House Robber DP (Leetcode).
+2. Describe a dynamic programming-based question you've solved.
+3. Explain and demonstrate the bubble sort algorithm. How does it work and what is its time complexity?
+
+Database Questions:
+1. What are the primary differences between SQL and NoSQL databases?
+2. Why would you use MongoDB (a NoSQL database) in a project over a traditional SQL database?
+3. What are aggregation functions in databases, and what role do they play?
+4. How would you use aggregation functions like SUM, COUNT, AVG, etc., in a SQL query?
+5. Can you give an example of how aggregation functions are used in MongoDB?
+6. What are the different types of Joins in MySQL?
+7. Write an SQL query using joins and where conditions.
+8. Write an SQL query using the BETWEEN operator and the HAVING clause.
+
+System Design Questions:
+1. Gave me a case where I had to design my application where I needed to explain the flow of my application making.
+2. How will our flow of application be?
+3. If you were to refactor your project, what improvements or changes would you make?
+4. How would you optimize the code or database queries for better performance?
+
+Project Related Questions:
+1. Can you explain the project mentioned on your resume in detail?
+2. What is the purpose of the project, and how did you approach its design and development?
+3. What challenges did you face while developing the project, and how did you overcome them?
+4. How did you optimize the performance of your project (e.g., time complexity, memory usage)?
+5. How did you manage the version control for your project? Which tools did you use?
+6. What features of your project differentiate it from existing solutions?
+7. Detailed project discussion.
+
+Language Specific Questions:
+1. What Object-Oriented Programming (OOP) concepts did you use in your project, and how did they benefit your implementation?
+2. Can you explain the concept of encapsulation, inheritance, and polymorphism in your project?
+3. Explain the right view of a binary tree.
+4. Discuss a dynamic programming-based question you've solved.
+5. Explain the use cases for try, catch, and finally blocks in error handling.
+
+Personality Based Questions:
+1. Can you tell me about yourself and your background?
+2. What are your strengths and weaknesses?
+3. What motivates you to choose a career in software development/engineering?
+4. Why do you want to join [Company Name] as a [Position Name]?
+5. Where do you see yourself in 5 years?

@@ -1,0 +1,91 @@
+### Coding Problem Solving Questions
+
+#### String Problems
+1. What is meant by string immutability in Java?
+2. What is the difference between == and .equals() in Java?
+3. Edit Distance (Convert String A to String B).
+4. Convert uppercase to lowercase in a string.
+5. How can we convert a string to uppercase in programming?
+
+#### Array Problems
+1. Find the missing number in an array.
+2. First and Last Position of an Element in a Sorted Array.
+3. Search in a Rotated Sorted Array.
+4. Median of Two Sorted Arrays.
+5. Square Root of an Integer using Binary Search.
+6. Find Peak Element in an Array.
+7. Kth Smallest Element in a Sorted Matrix.
+8. Capacity to Ship Packages within D Days.
+9. Aggressive Cows Problem (Maximum Minimum Distance).
+10. Search in a 2D Matrix.
+11. Find Minimum in Rotated Sorted Array.
+12. Longest Increasing Subsequence (LIS).
+13. 0/1 Knapsack Problem.
+14. House Robber Problem.
+15. Coin Change Problem (Minimum Number of Coins).
+16. Subset Sum Problem.
+17. Burst Balloons (Maximum Coins).
+18. Partition Equal Subset Sum.
+19. Maximum Product Subarray.
+20. Find the frequency of a given element in an array.
+21. Rotate an array by one place.
+
+#### Tree Problems
+1. Explain different tree traversal techniques (in-order, pre-order, post-order).
+
+#### Dynamic Programming Problems
+1. Longest Common Subsequence (LCS).
+2. Implement an algorithm to count distinct elements in an array.
+3. Explain the mathematics behind linear regression and logistic regression.
+
+### Database Related Questions
+1. Write an SQL query to join four tables and display the results.
+2. What are the types of joins in SQL?
+3. What is a composite key? Provide an example.
+4. Write a query to give all student info who scored max marks in each semester from the College Database.
+5. Explain the ACID properties of DBMS and relate them to real-world problems.
+6. What is a deadlock in computer systems?
+7. What are the necessary conditions that can lead to a deadlock?
+8. Difference between NoSQL and MySQL databases.
+9. What are the differences between Isolation and Consistency in ACID? Explain Dirty Read and Phantom problems.
+10. What is normalization? Explain with examples.
+11. Write a query to count the number of employees in a department.
+12. Write an SQL query to retrieve data from multiple tables using JOINs.
+13. Explain how you would use indexes to optimize a query.
+14. Write a query to find the second highest salary in a company.
+15. Explain the differences between GROUP BY and HAVING clauses in SQL.
+16. Explain the difference between DELETE and TRUNCATE.
+17. What are the different types of views in SQL?
+18. Explain the difference between a function and a stored procedure.
+19. Discuss constraints, indexes, and intersection in SQL.
+
+### System Design Questions
+1. What are the SOLID principles in system design?
+2. Explain client-server architecture.
+3. Explain the differences between user and kernel modes and what exactly happens in those modes.
+4. Explain how Docker works, its uses, and the problem it solves.
+
+### Project Related Questions
+1. Describe your most challenging project and how you approached it.
+2. Describe a situation where you faced a challenge while deploying your project.
+3. Explain the flow of your project in terms of architecture.
+4. What technologies did you use for front-end and back-end development?
+5. How did you achieve certain functionalities in your project?
+6. Discuss any challenges you faced while working on your projects.
+7. Explain the encryption and authentication techniques used in your project.
+8. What is the hardest situation you’ve faced while working for the club, and how did you solve it?
+
+### Language Specific Questions
+1. Explain Java and the concepts of Object-Oriented Programming (OOPs).
+2. Discuss function overriding in Java with examples.
+3. Explain the space complexity of the Two Sum problem and the Detect Loop in a Linked List problem.
+4. What are the pillars of OOP?
+5. Explain the differences between C and C++.
+6. What are the differences between primary and unique keys?
+
+### Personality Based Questions
+1. Tell me about your hobbies.
+2. How do you handle pressure if overwhelmed with a lot of work?
+3. How do you respond to negative feedback?
+4. How would you feel if we rejected you?
+5. What are your strengths and weaknesses?

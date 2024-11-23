@@ -1,0 +1,168 @@
+### Coding Problem Solving Questions:
+
+### String:
+    1. Write a program to reverse a string using a stack, without using any built-in stack library.
+    2. Write a program to reverse a string.
+    3. How do you reverse a string in different ways (iteratively, using recursion)?
+    4. Given a string with nested parentheses, remove the outermost parentheses. For example, for "(()())(())", the result should be "()()()".
+    5. How can you find duplicate characters in a string?
+    6. Solve the problem: given the sum of n natural numbers excluding 2 consecutive numbers, find the 2 consecutive numbers.
+    7. Write a C++ program to reverse a string using recursion.
+    8. Write a program to reverse words in a string.
+    9. Reverse linked list - Given a string s, reverse only the vowels in it without changing the consonants.
+    10. Write a complete C++ program to check if a string is a palindrome.
+    11. Given a string "r b y r r b y," arrange it as "r r r b b y y."
+    12. Write code to find the length of the longest continuous substring in a given string.
+    13. Can you give an example of a pattern-matching problem involving strings?
+    14. How would you implement a solution to find a substring within a string?
+    15. Can you explain the concept of string manipulation (e.g., reversing, concatenating) in programming?
+    16. What data structures would you use to optimize string operations, such as searching or pattern matching?
+    17. Write a pseudocode to find the frequency of vowels in a given string.
+    18. Write a C++ program to count the number of white spaces in a string.
+    19. One on an array of strings where in an array there shall be elements like dog, god, cat, act we need to separate them and return as {{dog, god}, {act, cat}}.
+    20. What is meant by string immutability in Java?
+    21. What is the difference between == and .equals() in Java?
+    22. Edit Distance (Convert String A to String B).
+    23. Convert uppercase to lowercase in a string.
+    24. How can we convert a string to uppercase in programming?
+    25. Rotate matrix by 90 degree without using transpose.
+    26. Rotate an array to 90 degree.
+
+### Array:
+    1. Write a program to find the second largest element in an array.
+    2. Given an array containing 0s, 1s, and 2s, sort the array (Dutch National Flag algorithm).
+    3. How would you find two numbers in an array that add up to a target value?
+    4. Find the subarray with the maximum sum in an array (Kadane's Algorithm).
+    5. Find the subarray with the maximum product.
+    6. How would you count the number of negative numbers in a row-column sorted matrix?
+    7. Solve the 3Sum problem: Find all unique triplets in an array that sum up to a target value.
+    8. Write a Python code to sum array elements until an odd sum is obtained.
+    9. Write a code to remove duplicate elements from an array.
+    10. Print the duplicate elements in an array.
+    11. Sort an array where the first half is sorted in descending order and the second half in ascending order.
+    12. Majority element: Given an array, print the majority element if present else print no majority element.
+    13. Move all negative elements to either the left or right end of an array.
+    14. DSA question: Print the distinct elements from an array.
+    15. To sort the 0's to one end in arrays.
+    16. Given an array, find the distance between two strings in the arrays.
+    17. Selection Sort.
+    18. Coin exchange problem.
+    19. Two Sum problems.
+    20. House Robber DP (Leetcode).
+    21. Write a query to join 2 tables and find the salary with the name.
+    22. Find the starting point of a loop in a linked list (Linked List Cycle II, Leetcode).
+    23. Given an array of n integers containing 0-9 calculate the frequency of each. Verify if all the n numbers were counted.
+    24. Find the missing number in an array.
+    25. First and Last Position of an Element in a Sorted Array.
+    26. Search in a Rotated Sorted Array.
+    27. Median of Two Sorted Arrays.
+    28. Square Root of an Integer using Binary Search.
+    29. Find Peak Element in an Array.
+    30. Kth Smallest Element in a Sorted Matrix.
+    31. Capacity to Ship Packages within D Days.
+    32. Aggressive Cows Problem (Maximum Minimum Distance).
+    33. Search in a 2D Matrix.
+    34. Find Minimum in Rotated Sorted Array.
+    35. Longest Increasing Subsequence (LIS).
+    36. 0/1 Knapsack Problem.
+    37. House Robber Problem.
+    38. Coin Change Problem (Minimum Number of Coins).
+    39. Subset Sum Problem.
+    40. Burst Balloons (Maximum Coins).
+    41. Partition Equal Subset Sum.
+    42. Maximum Product Subarray.
+    43. Find the frequency of a given element in an array.
+    44. Rotate an array by one place.
+
+### Tree:
+    1. Write a program for the implementation of a Binary Tree.
+    2. Find the intersection point where two linked lists merge.
+    3. Explain Binary Search Tree (BST) and its implementation.
+    4. What do you mean by a Binary Search Tree (BST)?
+    5. Explain pre-order, post-order, and in-order traversals in a binary tree.
+    6. Explain the right view of a binary tree.
+    7. What is a binary search tree? When does time complexity for searching an element become O(n) in it?
+    8. What is an AVL tree? What is the use of AVL trees?
+    9. Find a key value is present or not in the binary search tree.
+    10. Discuss the valid parentheses problem and your approach to solving it.
+    11. Given n students and m teachers, how many tables would you need to represent the relationship? What would those tables look like?
+    12. Explain different tree traversal techniques (in-order, pre-order, post-order).
+
+### Dynamic Programming:
+    1. What is dynamic programming?
+    2. Subarray sum equals K.
+    3. House Robber DP (Leetcode).
+    4. Describe a dynamic programming-based question you've solved.
+    5. Explain and demonstrate the bubble sort algorithm. How does it work and what is its time complexity?
+    6. Longest Common Subsequence (LCS).
+    7. Implement an algorithm to count distinct elements in an array.
+    8. Explain the mathematics behind linear regression and logistic regression.
+
+### SQL Queries:
+    1. Write a query demonstrating the syntax and use cases of inner join.
+    2. How would you use aggregate functions like COUNT(), SUM(), AVG(), MAX(), MIN() in a query?
+    3. Given a database table for train schedules (arrival and departure), how would you find the minimum number of platforms required for the given times?
+    4. Retrieve user with the top 2nd highest follower in given table data.
+    5. Explain normalization and its forms with examples.
+    6. Explain types of constraints in DBMS.
+    7. What is a database?
+    8. Difference between DBMS and RDBMS.
+    9. Explain the concept of primary and foreign keys with examples.
+    10. Write a SQL query to find the second-highest salary.
+    11. Find the second-highest salary in each department, using join with employee and department tables.
+    12. SQL rank function to get the second-highest salary.
+    13. SQL query to detect duplicate records.
+    14. SQL query to update employee names starting from 'sun' to 'moon'.
+    15. SQL query to join two tables using a right join.
+    16. Explain various types of joins with examples.
+    17. SQL query to find employees who joined before their manager.
+    18. SQL query to find the employees who were hired in the year 2024.
+    19. Explain aggregate functions in SQL.
+    20. Write a query to find the second rank student's data.
+    21. DBMS: Write the ER diagram for your project schema.
+    22. SQL queries on a given weather table (joins based questions).
+    23. What are the ACID properties?
+    24. Explain locks in DBMS.
+    25. What is deadlock, and what are the prevention methods?
+    26. What is a DBMS? Provide an example.
+    27. Explain the types of normalization.
+    28. What are keys and constraints in a database?
+    29. Explain the types of joins in a database.
+    30. What are the primary differences between SQL and NoSQL databases?
+    31. Why would you use MongoDB (a NoSQL database) in a project over a traditional SQL database?
+    32. What are aggregation functions in databases, and what role do they play?
+    33. How would you use aggregation functions like SUM, COUNT, AVG, etc., in a SQL query?
+    34. Can you give an example of how aggregation functions are used in MongoDB?
+    35. What are the different types of Joins in MySQL?
+    36. Write an SQL query using joins and where conditions.
+    37. Write an SQL query using the BETWEEN operator and the HAVING clause.
+    38. Write an SQL query to join four tables and display the results.
+    39. What are the types of joins in SQL?
+    40. What is a composite key? Provide an example.
+    41. Write a query to give all student info who scored max marks in each semester from the College Database.
+    42. Explain the ACID properties of DBMS and relate them to real-world problems.
+    43. What is a deadlock in computer systems?
+    44. What are the necessary conditions that can lead to a deadlock?
+    45. Difference between NoSQL and MySQL databases.
+    46. What are the differences between Isolation and Consistency in ACID? Explain Dirty Read and Phantom problems.
+    47. What is normalization? Explain with examples.
+    48. Write a query to count the number of employees in a department.
+    49. Write an SQL query to retrieve data from multiple tables using JOINs.
+    50. Explain how you would use indexes to optimize a query.
+    51. Write a query to find the second highest salary in a company.
+    52. Explain the differences between GROUP BY and HAVING clauses in SQL.
+    53. Explain the difference between DELETE and TRUNCATE.
+    54. What are the different types of views in SQL?
+    55. Explain the difference between a function and a stored procedure.
+    56. Discuss constraints, indexes, and intersection in SQL.
+    57. SQL window function.
+    58. Aggregate functions.
+    59. Triggers.
+    60. Complete schema of database.
+    61. Dense rank, rank.
+    62. What is the difference between primary key and unique?
+    63. What are the types of joins?
+    64. What is rank and dense rank in SQL? What is the difference?
+    65. What are the aggregate functions in SQL?
+    66. What are the constraints used in SQL queries?
+    67. SQL basic insertion, deletion, viewing.

@@ -1,0 +1,93 @@
+Coding Problem Solving Questions:
+
+1. String:
+   1. Write a program to reverse a string using a stack, without using any built-in stack library.
+   2. Write a program to reverse a string.
+   3. How do you reverse a string in different ways (iteratively, using recursion)?
+   4. Given a string with nested parentheses, remove the outermost parentheses. For example, for "(()())(())", the result should be "()()()".
+   5. How can you find duplicate characters in a string?
+   6. Solve the problem: given the sum of n natural numbers excluding 2 consecutive numbers, find the 2 consecutive numbers.
+
+2. Array:
+   1. Write a program to find the second largest element in an array.
+   2. Given an array containing 0s, 1s, and 2s, sort the array (Dutch National Flag algorithm).
+   3. How would you find two numbers in an array that add up to a target value?
+   4. Find the subarray with the maximum sum in an array (Kadane's Algorithm).
+   5. Find the subarray with the maximum product.
+   6. How would you count the number of negative numbers in a row-column sorted matrix?
+   7. Solve the 3Sum problem: Find all unique triplets in an array that sum up to a target value.
+
+3. Tree:
+   1. Write a program for the implementation of a Binary Tree.
+   2. Find the intersection point where two linked lists merge.
+
+4. Dynamic Programming:
+   (None)
+
+5. SQL Queries:
+   1. Write a query demonstrating the syntax and use cases of inner join.
+   2. How would you use aggregate functions like COUNT(), SUM(), AVG(), MAX(), MIN() in a query?
+   3. Given a database table for train schedules (arrival and departure), how would you find the minimum number of platforms required for the given times?
+   4. Retrieve user with the top 2nd highest follower in given table data.
+
+6. Linked List:
+   1. How can you delete the nth last element from a linked list?
+   2. How would you detect a loop in a linked list? How can you find the starting point of the loop?
+   3. What are different ways to sort a linked list (merge sort, quicksort)?
+
+7. Miscellaneous:
+   1. Implement stack operations using a class in different data structures (arrays, linked lists, etc.).
+   2. You have two containers of 3 liters and 5 liters, respectively. How would you measure exactly 4 liters?
+   3. What are the advantages of MySQL over NoSQL databases?
+   4. Why would you choose a NoSQL database for some applications?
+
+Database Related Questions:
+
+1. Explain Normalization with an example.
+2. Discuss the normalization process used in the database tables of your project.
+3. Difference between truncate and delete.
+4. Types of join.
+5. View, materialized view.
+6. Built-in function in SQL.
+7. About rank, window functions, etc.
+8. Data warehouse.
+9. Explain database indexing and the different types of indexes.
+10. Describe normalization and its types. What are the pros and cons of normalization?
+11. Explain database locks and their types.
+
+System Design Questions:
+
+1. What factors would you consider if you were to build a movie ticket booking application?
+2. Explain High-Level Design (HLD) of a system you have worked on.
+3. Describe the architecture of the system you built.
+4. Discuss the trade-offs between different architectural patterns (e.g., microservices vs. monolithic).
+
+Project Related Questions:
+
+1. Explain the projects you have worked on.
+2. What challenges did you face in that project, and how did you overcome them?
+3. Why did you choose that project?
+4. How did you implement specific features in your project? Discuss deeply.
+5. What improvements would you make to the project if given more time?
+
+Language Specific Questions:
+
+1. Implement Merge Sort in C++.
+2. Write a complete C++ program implementing OOP concepts.
+3. Explain the core OOP concepts (e.g., inheritance, polymorphism, encapsulation, abstraction).
+4. Explain the concepts of polymorphism, abstraction, and encapsulation.
+5. What is the difference between a stack and a queue?
+6. Explain the four pillars of OOP in C++.
+7. What is malloc?
+8. What is the new keyword in C++?
+9. Explain pointers and their uses in C/C++.
+10. Explain constructors and destructors.
+11. Explain different sorting methods and describe how one of them works.
+
+Personality Based Questions:
+
+1. Why did you choose that project?
+2. What motivated you to take up AI ML?
+3. Describe a time when you had to overcome a significant obstacle.
+4. How do you consider yourself a good team player? Provide a specific situation where you demonstrated teamwork.
+5. Have you ever taken on a leadership role? Describe that experience.

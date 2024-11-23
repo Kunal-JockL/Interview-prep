@@ -1,0 +1,17 @@
+1. Theory-Based Questions
+   - Networking
+     - Define the 7 layers of the OSI model.
+     - What is the difference between IPv4 and IPv6?
+
+2. Coding (Problem Solving) Questions
+   - Data Structures
+     - Give a practical example of a doubly linked list.
+
+3. Programming Concepts
+   - Threads
+     - What is a thread in programming?
+
+4. Project-Related Questions
+   - Describe your project.
+   - What is the practical use of your project?
+   - What problems did you face during the implementation of your project?
