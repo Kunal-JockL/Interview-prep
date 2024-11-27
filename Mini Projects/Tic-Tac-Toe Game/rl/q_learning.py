@@ -4,7 +4,9 @@ from utils.constants import GRID_SIZE
 
 class QLearning:
     def __init__(self, alpha=0.1, gamma=0.9, epsilon=0.1):
-        self.q_table = {}  # State-action values
+        with open("text.txt", "r") as file:
+            self.q_table = file.readlines()
+        # self.q_table = {}  # State-action values
         self.alpha = alpha  # Learning rate
         self.gamma = gamma  # Discount factor
         self.epsilon = epsilon  # Exploration rate
@@ -15,7 +17,7 @@ class QLearning:
 
     def get_action(self, state, valid_actions):
         """Choose an action using epsilon-greedy policy."""
-        if random.uniform(0, 1) < self.epsilon:
+        if random.uniform(0, 1) < self.epsilon or 1 :
             return random.choice(valid_actions)  # Explore
         else:
             return self.best_action(state, valid_actions)  # Exploit
@@ -36,3 +38,7 @@ class QLearning:
         
     def printTable(self):
         print(self.q_table)
+        
+    def write_to_file(q_table):
+        with open("text.txt", "w") as file:
+            print(q_table, file=file)

@@ -25,8 +25,10 @@ def main():
         board.draw(screen, engine.currentPlayer.name)
 
         for event in pygame.event.get():
+            
             if event.type == pygame.QUIT:
                 running = False
+                
             elif event.type == pygame.MOUSEBUTTONDOWN and not winner and engine.currentPlayer == player1:
                 agent.printTable()
                 x, y = pygame.mouse.get_pos()
@@ -35,6 +37,7 @@ def main():
                     winner = engine.checkWinner(board)
                     if not winner:
                         engine.switchPlayer(player1, agent)
+                        
             elif engine.currentPlayer == agent and not winner:
                 agent.printTable()
                 row, col = agent.choose_action(board)
